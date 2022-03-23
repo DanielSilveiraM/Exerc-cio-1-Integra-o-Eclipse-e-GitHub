@@ -1,3 +1,3 @@
-# Exerc-cio-1-Integra-o-Eclipse-e-GitHub
+# Exercício 1 Integraçao Eclipse e GitHub
 
 Auto avaliação: 9/10
